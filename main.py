@@ -19,4 +19,4 @@ with sr.AudioFile('male.wav') as source:
         print(text)
      
     except:
-         print("You got it all wrong homie. Correct me up please!")
+         print("You got it all wrong homie. Correct me up my g!")
